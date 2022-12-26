@@ -1,7 +1,8 @@
 ---
 title: PgslotFish แจกเครดิตฟรีทุกวัน
 ---
-# ฟรีประจำวัน
+# ฟรีประจำวัน  
+![img](https://user-assets.out.sh/user-assets/2038588/AI1PxRvQZkciTBKI/2565-12-05-14.48.54.jpg)
 26/12
 กิจกรรม:https://gleam.io/A58Bp/-pgslotfish-2612
 ลิ้งสมัคร:http://cutt.ly/pgslot-fish-28
