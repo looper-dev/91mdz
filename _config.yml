@@ -4,7 +4,7 @@
 
 # Site
 title: สล็อตเครดิตฟรี
-subtitle: อณาจักรนักล่าพนัน
+subtitle: "อณาจักรนักล่าพนัน"
 description:
 keywords:
 author: John Doe
@@ -13,7 +13,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: https://91mdz.vercel.app
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
